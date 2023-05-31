@@ -48,3 +48,14 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/illustration-type.csv
 #### illustrator
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/illustrator.csv
 
+## Architectural design
+
+#### national culture
+
+
+#### architectural style
+
+#### architectural age
+
+#### architect
+
