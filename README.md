@@ -4,7 +4,7 @@
 
 [https://alidocs.dingtalk.com/i/nodes/14lgGw3P8vveey6lsAGPDGx785daZ90D]()
 
-## photography
+## Photography
 
 #### photography-technology
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/photography-technology.csv
@@ -21,7 +21,7 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/film.csv
 #### photographer
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/photographer.csv
 
-## painting
+## Painting
 
 #### painting type
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/painting-type.csv
@@ -37,3 +37,14 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/painting-style.csv
 
 #### painter
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/painter.csv
+
+## Illustration
+
+#### illustration type
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/illustration-type.csv
+
+#### game or film
+
+#### illustrator
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/illustrator.csv
+
