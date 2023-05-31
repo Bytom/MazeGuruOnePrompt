@@ -24,11 +24,16 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/photographer.csv
 ## painting
 
 #### painting type
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/painting-type.csv
 
 #### brush type
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/brush-type.csv
 
 #### pigment type
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/pigment-type.csv
 
 #### painting style
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/painting-style.csv
 
 #### painter
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/painter.csv
