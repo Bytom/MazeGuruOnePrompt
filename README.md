@@ -62,3 +62,31 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/architectural-age.csv
 #### architect
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/architect.csv
 
+
+
+## graphic design 
+
+#### design style 
+
+#### design purpose 
+
+#### color schema 
+
+#### graphic designer 
+
+
+
+## fashion design 
+
+#### fashion style 
+
+#### fashion age  
+
+#### fashion brand 
+
+#### fashion designer 
+
+
+
+
+
