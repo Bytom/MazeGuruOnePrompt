@@ -79,12 +79,15 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/architect.csv
 ## fashion design 
 
 #### fashion style 
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-style.csv
 
 #### fashion age  
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-age.csv
 
 #### fashion brand 
 
-#### fashion designer 
+#### fashion designer
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-designer.csv
 
 
 
