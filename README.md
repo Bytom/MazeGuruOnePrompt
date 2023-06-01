@@ -89,8 +89,6 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-age.csv
 #### fashion designer
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-designer.csv
 
-
-
 ## anime
 
 #### anime style 
@@ -104,8 +102,6 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/animation-studio.csv
 
 #### animator 
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/animator.csv
-
-
 
 ## Human
 
@@ -142,8 +138,6 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/expression.csv
 #### culture
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/cultures.csv
 
-
-
 ## Animal
 
 #### animals
@@ -160,8 +154,6 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/materials.csv
 #### colors
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
 
-
-
 ## vehicle
 
 #### vehicle type
@@ -172,7 +164,6 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/materials.csv
 
 #### colors
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
-
 
 
 ##  Object
@@ -191,8 +182,7 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
 ## Plant
 
 #### plant type
-
-
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/plants.csv
 
 ## Landscape 
 
