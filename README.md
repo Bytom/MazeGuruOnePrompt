@@ -165,15 +165,12 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
 ## vehicle
 
 #### vehicle type
-
-
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/vehicles.csv
 
 #### materials
-
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/materials.csv
 
 #### colors
-
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
 
 
@@ -181,13 +178,10 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
 ##  Object
 
 #### object type
-
-
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/objects.csv
 
 #### materials
-
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/materials.csv
 
 #### colors
-
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
