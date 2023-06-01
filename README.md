@@ -199,21 +199,22 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
 #### scenery 
 
 #### location
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/locations.csv
 
 #### time
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/time.csv
 
 #### season
 
 #### weather
-
-
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/weather.csv
 
 ## scene 
 
 #### scene 
 
 #### event
-
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/events.csv
 
 
 
