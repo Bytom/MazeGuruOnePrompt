@@ -178,7 +178,6 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/materials.csv
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
 
 
-
 ## Plant
 
 #### plant type
@@ -187,6 +186,7 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/plants.csv
 ## Landscape 
 
 #### scenery 
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/scenery.csv
 
 #### location
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/locations.csv
@@ -213,6 +213,7 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/events.csv
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/angle.csv
 
 #### background
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/background.csv
 
 #### color scheme
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colorscheme.csv
