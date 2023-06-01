@@ -141,3 +141,24 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/expression.csv
 
 #### culture
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/cultures.csv
+
+
+
+## Animal
+
+#### animals
+
+
+
+## Building
+
+#### building type
+
+#### materials
+
+#### colors
+
+
+
+
+
