@@ -185,3 +185,36 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/materials.csv
 
 #### colors
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
+
+
+
+## Plant
+
+#### plant type
+
+
+
+## Landscape 
+
+#### scenery 
+
+#### location
+
+#### time
+
+#### season
+
+#### weather
+
+
+
+## scene 
+
+#### scene 
+
+#### event
+
+
+
+
+
