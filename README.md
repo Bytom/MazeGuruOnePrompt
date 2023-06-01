@@ -71,6 +71,7 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/architect.csv
 #### design purpose 
 
 #### color schema 
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colorscheme.csv
 
 #### graphic designer 
 
