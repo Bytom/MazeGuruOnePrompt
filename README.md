@@ -104,3 +104,30 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/animation-studio.csv
 
 #### animator 
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/animator.csv
+
+
+
+## Human
+
+#### gender 
+
+#### age
+
+#### skin
+
+#### outfits
+
+#### accessories 
+
+#### pose
+
+#### body type
+
+#### hair
+
+#### expression
+
+#### jobs
+
+#### culture
+
