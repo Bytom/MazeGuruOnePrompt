@@ -85,6 +85,7 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-style.csv
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-age.csv
 
 #### fashion brand 
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-brand.csv
 
 #### fashion designer
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-designer.csv
@@ -164,7 +165,6 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/materials.csv
 
 #### colors
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
-
 
 ##  Object
 
