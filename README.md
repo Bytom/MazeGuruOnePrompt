@@ -205,6 +205,7 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/locations.csv
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/time.csv
 
 #### season
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/season.csv
 
 #### weather
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/weather.csv
@@ -216,20 +217,21 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/weather.csv
 #### event
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/events.csv
 
-
-
 ## Other
 
 #### angle
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/angle.csv
 
 #### background
 
 #### color scheme
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colorscheme.csv
 
 #### magic words
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/magic-words.csv
 
 #### light
-
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/lighting.csv
 
 
 
