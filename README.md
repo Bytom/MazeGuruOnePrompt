@@ -218,4 +218,20 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/events.csv
 
 
 
+## Other
+
+#### angle
+
+#### background
+
+#### color scheme
+
+#### magic words
+
+#### light
+
+
+
+
+
 
