@@ -162,4 +162,32 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
 
 
 
+## vehicle
 
+#### vehicle type
+
+
+
+#### materials
+
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/materials.csv
+
+#### colors
+
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
+
+
+
+##  Object
+
+#### object type
+
+
+
+#### materials
+
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/materials.csv
+
+#### colors
+
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
