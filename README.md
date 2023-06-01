@@ -94,10 +94,13 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-designer.csv
 ## anime
 
 #### anime style 
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/anime-style.csv
 
 #### animation 
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/animation.csv
 
 #### animation studio 
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/animation-studio.csv
 
 #### animator 
-
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/animator.csv
