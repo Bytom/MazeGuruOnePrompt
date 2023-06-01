@@ -110,24 +110,34 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/animator.csv
 ## Human
 
 #### gender 
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/gender.csv
 
 #### age
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/age.csv
 
 #### skin
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/skin.csv
 
 #### outfits
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/outfits.csv
 
 #### accessories 
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/accessories.csv
 
 #### pose
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/poses.csv
 
 #### body type
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/body-types.csv
 
 #### hair
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/hair.csv
 
 #### expression
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/expression.csv
 
 #### jobs
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/expression.csv
 
 #### culture
-
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/cultures.csv
