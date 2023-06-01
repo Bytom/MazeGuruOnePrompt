@@ -91,5 +91,13 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-designer.csv
 
 
 
+## anime
 
+#### anime style 
+
+#### animation 
+
+#### animation studio 
+
+#### animator 
 
