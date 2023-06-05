@@ -104,10 +104,16 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/animation-studio.csv
 #### animator 
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/animator.csv
 
-## Human
+## Human，Fictional character,Humanoid
 
-#### gender 
+#### gender (Huamn)
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/gender.csv
+
+#### fictional character(Fictional character)
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/fictional%20characters.csv
+
+#### humanoid(Humanoid)
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/humanoids.csv
 
 #### age
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/age.csv
