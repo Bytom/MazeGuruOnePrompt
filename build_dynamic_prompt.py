@@ -129,10 +129,19 @@ magic_dic = {
 }
 
 others_dic = {
-	"angle": "angle.csv",
 	"background": "background.csv",
 	"colorscheme": "colorscheme.csv",
 	"light": "lighting.csv"
+}
+
+support_dic = {
+	"photography": ["human", "fictional character", "humanoid", "animal", "building", "vehicles", "object", "plant", "landscape", "location", "scene", "event"],
+	"painting": ["human", "fictional character", "humanoid", "animal", "building", "vehicles", "object", "plant", "landscape", "location", "scene", "event"],
+	"illustration": ["human", "fictional character", "humanoid", "animal", "building", "vehicles", "object", "plant", "landscape", "location", "scene", "event"],
+	"architectural design": ["building", "location"],
+	"graphic design": ["human", "animal", "building", "vehicles", "landscape", "location", "scene"],
+	"fashion design": ["human", "fictional character", "plant"],
+	"anime": ["human", "fictional character", "humanoid", "animal", "landscape", "scene", "event"]
 }
 
 
@@ -157,6 +166,13 @@ class OneButton(object):
 	def __init__(self):
 		self.magic_words = get_csvs(magic_dic["magic_words"])
 
+	def judge_not_support(self, type_of_image, subject):
+		if type_of_image not in support_dic.keys():
+			return False
+		if subject in support_dic[type_of_image]:
+			return True
+		return False
+
 	def get_other_prompt(self):
 		other_file = others_dic[random.choice(list(others_dic.keys()))]
 		csv_path = os.path.join(csv_dir, other_file)
@@ -164,12 +180,17 @@ class OneButton(object):
 		return random.choice(lines)
 
 	def get_prompt(self, type_of_image, subject, special_words):
+		type_of_image = type_of_image.lower()
+		subject = subject.lower()
+
+		if not self.judge_not_support(type_of_image, subject):
+			msg = "not support"
+			return msg
+
 		if special_words:
 			prompt_arr = [f"({special_words})", f"({type_of_image})"]
 		else:
 			prompt_arr = [f"({type_of_image})"]
-		type_of_image = type_of_image.lower()
-		subject = subject.lower()
 		
 		s_dic = subject_dict[subject]
 		
@@ -192,6 +213,7 @@ class OneButton(object):
 			else:
 				print(f"empty:{csv_path}")
 
+		prompt_arr.extend(random_choice_num_from_arr(self.magic_words, 2))
 		prompt_arr.append(self.get_other_prompt())
 		return ','.join(prompt_arr)		
 
@@ -219,6 +241,6 @@ if __name__ == "__main__":
 		type_of_image = sys.argv[1]
 		subject = sys.argv[2]
 		special_words = ""
-	
+	# print(sys.argv)
 	test(special_words, type_of_image, subject)
 
