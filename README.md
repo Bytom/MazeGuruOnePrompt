@@ -7,222 +7,222 @@
 ## Photography
 
 #### photography-technology
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/photography-technology.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/photography-technology.csv
 
 #### photographic-equipment
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/photographic-equipment.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/photographic-equipment.csv
 
 #### photography-parameters
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/photography-parameters.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/photography-parameters.csv
 
 #### film
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/film.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/film.csv
 
 #### photographer
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/photographer.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/photographer.csv
 
 ## Painting
 
 #### painting type
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/painting-type.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/painting-type.csv
 
 #### brush type
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/brush-type.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/brush-type.csv
 
 #### pigment type
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/pigment-type.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/pigment-type.csv
 
 #### painting style
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/painting-style.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/painting-style.csv
 
 #### painter
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/painter.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/painter.csv
 
 ## Illustration
 
 #### illustration type
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/illustration-type.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/illustration-type.csv
 
 #### game or film
 
 #### illustrator
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/illustrator.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/illustrator.csv
 
 ## Architectural design
 
 #### national culture
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/national-culture.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/national-culture.csv
 
 #### architectural style
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/architectural-style.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/architectural-style.csv
 
 #### architectural age
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/architectural-age.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/architectural-age.csv
 
 #### architect
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/architect.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/architect.csv
 
 ## graphic design 
 
 #### design style 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/design-style.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/design-style.csv
 
 #### design purpose 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/design-purpose.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/design-purpose.csv
 
 #### color schema 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colorscheme.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/colorscheme.csv
 
 #### graphic designer 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/graphic-designer.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/graphic-designer.csv
 
 ## fashion design 
 
 #### fashion style 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-style.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/fashion-style.csv
 
 #### fashion age  
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-age.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/fashion-age.csv
 
 #### fashion brand 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-brand.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/fashion-brand.csv
 
 #### fashion designer
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/fashion-designer.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/fashion-designer.csv
 
 ## anime
 
 #### anime style 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/anime-style.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/anime-style.csv
 
 #### animation 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/animation.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/animation.csv
 
 #### animation studio 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/animation-studio.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/animation-studio.csv
 
 #### animator 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/animator.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/animator.csv
 
 ## Human
 
 #### gender 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/gender.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/gender.csv
 
 #### age
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/age.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/age.csv
 
 #### skin
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/skin.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/skin.csv
 
 #### outfits
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/outfits.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/outfits.csv
 
 #### accessories 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/accessories.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/accessories.csv
 
 #### pose
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/poses.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/poses.csv
 
 #### body type
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/body-types.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/body-types.csv
 
 #### hair
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/hair.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/hair.csv
 
 #### expression
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/expression.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/expression.csv
 
 #### jobs
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/jobs.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/jobs.csv
 
 #### culture
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/cultures.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/cultures.csv
 
 ## Animal
 
 #### animals
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/animals.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/animals.csv
 
 ## Building
 
 #### building type
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/buildings.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/buildings.csv
 
 #### materials
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/materials.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/materials.csv
 
 #### colors
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/colors.csv
 
 ## vehicle
 
 #### vehicle type
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/vehicles.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/vehicles.csv
 
 #### materials
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/materials.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/materials.csv
 
 #### colors
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/colors.csv
 
 ##  Object
 
 #### object type
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/objects.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/objects.csv
 
 #### materials
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/materials.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/materials.csv
 
 #### colors
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colors.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/colors.csv
 
 
 ## Plant
 
 #### plant type
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/plants.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/plants.csv
 
 ## Landscape 
 
 #### scenery 
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/scenery.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/scenery.csv
 
 #### location
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/locations.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/locations.csv
 
 #### time
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/time.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/time.csv
 
 #### season
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/season.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/season.csv
 
 #### weather
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/weather.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/weather.csv
 
 ## scene 
 
 #### scene 
 
 #### event
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/events.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/events.csv
 
 ## Other
 
 #### angle
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/angle.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/angle.csv
 
 #### background
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/background.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/background.csv
 
 #### color scheme
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/colorscheme.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/colorscheme.csv
 
 #### magic words
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/magic-words.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/magic-words.csv
 
 #### light
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/lighting.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/lighting.csv
 
 
 
