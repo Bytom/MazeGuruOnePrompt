@@ -1,5 +1,6 @@
 import os
 import sys
+import random
 
 csv_dir = os.path.join("", "csvs")
 subject_dict = {
@@ -93,8 +94,8 @@ type_of_image_dic = {
 		"painter": "painter.csv"
 	},
 	"illustration":{
-		"illustration type": "illustration-type.csv"
-		"movieorgame": "movieorgame.csv"
+		"illustration type": "illustration-type.csv",
+		"movieorgame": "movieorgame.csv",
 		"illustrator": "illustrator.csv"
 	},
 	"architectural design":{
@@ -123,6 +124,17 @@ type_of_image_dic = {
 	}	
 }
 
+magic_dic = {
+	"magic_words": "magic-words.csv"
+}
+
+others_dic = {
+	"angle": "angle.csv",
+	"background": "background.csv",
+	"colorscheme": "colorscheme.csv",
+	"light": "lighting.csv"
+}
+
 
 def get_csvs(filepath):
 	ret = []
@@ -133,18 +145,50 @@ def get_csvs(filepath):
 		f.close()
 	return ret
 
+def random_choice_num_from_arr(arr, num):
+	if len(arr) < num:
+		return []
+	else:
+		random_arr = random.shuffle(arr)
+		return random_arr[:num]
+
 
 class OneButton(object):
 	def __init__(self):
-		pass
+		self.magic_words = get_csvs(magic_dic["magic_words"])
+
+	def get_other_prompt(self):
+		other_file = others_dic[random.choice(list(others_dic.keys()))]
+		csv_path = os.path.join(csv_dir, other_file)
+		lines = get_csvs(csv_path)
+		return random.choice(lines)
 
 	def get_prompt(self, type_of_image, subject, special_words):
-		prompt = f"{type_of_image}"
+		prompt_arr = [f"({type_of_image})"]
 		type_of_image = type_of_image.lower()
 		subject = subject.lower()
-		if subject in subject_dict.keys():
-			pass
+		
+		s_dic = subject_dict[subject]
+		
+		for key, csv_file in s_dic.items():
+			csv_path = os.path.join(csv_dir, csv_file)
+			lines = get_csvs(csv_path)
+			if lines:
+				prompt_arr.append(random.choice(lines))
+			else:
+				print(f"empty:{csv_path}")
 
+		type_dic = type_of_image_dic.keys()
+		for key, csv_file in s_dic.items():
+			csv_path = os.path.join(csv_dir, csv_file)
+			lines = get_csvs(csv_path)
+			if lines:
+				prompt_arr.append(random.choice(lines))
+			else:
+				print(f"empty:{csv_path}")
+
+		prompt_arr.append(self.get_other_prompt())
+		return ','.join(prompt_arr)		
 
 
 def test():
