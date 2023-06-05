@@ -24,7 +24,6 @@ subject_dict = {
 		"body type":"body-types.csv",
 		"hair":"hair.csv",
 		"expression": "expression.csv"
-
 	},
 	"humanoid":{
 		"humanoid":"humanoids.csv",
