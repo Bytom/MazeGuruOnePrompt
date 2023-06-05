@@ -111,7 +111,7 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/animator.csv
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/gender.csv
 
 #### fictional character(Fictional character)
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/fictional%20characters.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/fictional-characters.csv
 
 #### humanoid(Humanoid)
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/humanoids.csv
