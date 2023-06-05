@@ -232,9 +232,6 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/events.csv
 
 ## Other
 
-#### angle
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/angle.csv
-
 #### background
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/background.csv
 
