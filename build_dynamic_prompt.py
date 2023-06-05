@@ -158,13 +158,13 @@ def random_choice_num_from_arr(arr, num):
 	if len(arr) < num:
 		return []
 	else:
-		random_arr = random.shuffle(arr)
-		return random_arr[:num]
+		random.shuffle(arr)
+		return arr[:num]
 
 
 class OneButton(object):
 	def __init__(self):
-		self.magic_words = get_csvs(magic_dic["magic_words"])
+		self.magic_words = get_csvs(os.path.join(csv_dir, magic_dic["magic_words"]))
 
 	def judge_not_support(self, type_of_image, subject):
 		if type_of_image not in support_dic.keys():
@@ -213,7 +213,8 @@ class OneButton(object):
 			else:
 				print(f"empty:{csv_path}")
 
-		prompt_arr.extend(random_choice_num_from_arr(self.magic_words, 2))
+		magic_words = random_choice_num_from_arr(self.magic_words, 2)
+		prompt_arr.extend(magic_words)
 		prompt_arr.append(self.get_other_prompt())
 		return ','.join(prompt_arr)		
 
