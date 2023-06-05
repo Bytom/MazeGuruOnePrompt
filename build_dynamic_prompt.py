@@ -61,7 +61,7 @@ subject_dict = {
 	}
 }
 
-type_of_image = {
+type_of_image_dic = {
 	"photography":{
 		"photography-technology": "photography-technology.csv",
 		"photographic-equipment": "photographic-equipment.csv",
@@ -105,12 +105,28 @@ type_of_image = {
 	}	
 }
 
+
+def get_csvs(filepath):
+	ret = []
+	if os.path.exists(filepath):
+		f = open(filepath, "r")
+		for line in f:
+			ret.append(line.strip())
+		f.close()
+	return ret
+
+
 class OneButton(object):
 	def __init__(self):
 		pass
 
-	def get_prompt():
-		pass
+	def get_prompt(self, type_of_image, subject, special_words):
+		prompt = f"{type_of_image}"
+		type_of_image = type_of_image.lower()
+		subject = subject.lower()
+		if subject in subject_dict.keys():
+			pass
+
 
 
 def test():
