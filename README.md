@@ -134,7 +134,7 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/hair.csv
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/expression.csv
 
 #### jobs
-https://github.com/Bytom/MazeGuruOnePrompt/blob/main/expression.csv
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/jobs.csv
 
 #### culture
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/cultures.csv
