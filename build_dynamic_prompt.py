@@ -174,15 +174,17 @@ class OneButton(object):
 			csv_path = os.path.join(csv_dir, csv_file)
 			lines = get_csvs(csv_path)
 			if lines:
+				#prompt_arr.append(f"[{key}]:" + random.choice(lines))
 				prompt_arr.append(random.choice(lines))
 			else:
 				print(f"empty:{csv_path}")
 
-		type_dic = type_of_image_dic.keys()
-		for key, csv_file in s_dic.items():
+		type_dic = type_of_image_dic[type_of_image]
+		for key, csv_file in type_dic.items():
 			csv_path = os.path.join(csv_dir, csv_file)
 			lines = get_csvs(csv_path)
 			if lines:
+				# prompt_arr.append(f"[{key}]:" + random.choice(lines))
 				prompt_arr.append(random.choice(lines))
 			else:
 				print(f"empty:{csv_path}")
