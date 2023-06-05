@@ -23,18 +23,14 @@ subject_dict = {
 		"accessories":"accessories.csv",
 		"pose":"pose.csv",
 		"body type":"body-types.csv",
-		"hair":"hair.csv",
 		"expression": "expression.csv"
 	},
 	"humanoid":{
 		"humanoid":"humanoids.csv",
-		"age":"age.csv",
-		"skin":"skin.csv",
 		"outfits":"outfits.csv",
 		"accessories":"accessories.csv",
 		"pose":"pose.csv",
 		"body type":"body-types.csv",
-		"hair":"hair.csv",
 		"expression": "expression.csv"
 	},
 	"animal":{
