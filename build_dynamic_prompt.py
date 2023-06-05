@@ -38,7 +38,6 @@ subject_dict = {
 	},
 	"building":{
 		"building type": "buildings.csv",
-		"materials": "materials.csv",
 		"colors":"colors.csv"
 	},
 	"vehicles":{
