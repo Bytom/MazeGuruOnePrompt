@@ -164,7 +164,7 @@ class OneButton(object):
 		return random.choice(lines)
 
 	def get_prompt(self, type_of_image, subject, special_words):
-		prompt_arr = [f"({type_of_image})"]
+		prompt_arr = [f"({special_words})", f"({type_of_image})"]
 		type_of_image = type_of_image.lower()
 		subject = subject.lower()
 		
@@ -193,15 +193,19 @@ class OneButton(object):
 		return ','.join(prompt_arr)		
 
 
-def test():
-	type_of_image = "photography"
-	subject = "Human"
-	special_words = "special"
-
+def test(special_words, type_of_image, subject):
 	button = OneButton()
 	prompt = button.get_prompt(type_of_image, subject, special_words)
 	print(prompt)
 
 
 if __name__ == "__main__":
-	test()
+	type_of_image = "photography"
+	subject = "Human"
+	special_words = "special"
+
+	if len(sys.argv) > 3:
+		special_words = sys.argv[1]
+		type_of_image = sys.argv[2]
+		subject = sys.argv[3]
+		test(special_words, type_of_image, subject)
