@@ -43,7 +43,8 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/painter.csv
 #### illustration type
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/illustration-type.csv
 
-#### game or film
+#### game or movie
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/movieorgame.csv
 
 #### illustrator
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/illustrator.csv
@@ -182,7 +183,6 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/materials.csv
 
 #### colors
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/colors.csv
-
 
 ## Plant
 
