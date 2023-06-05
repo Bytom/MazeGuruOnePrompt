@@ -17,10 +17,25 @@ subject_dict = {
 		"culture": "culture.csv"
 	},
 	"fictional character":{
+		"fictional":"fictional-characters.csv",
+		"outfits":"outfits.csv",
+		"accessories":"accessories.csv",
+		"pose":"pose.csv",
+		"body type":"body-types.csv",
+		"hair":"hair.csv",
+		"expression": "expression.csv"
 
 	},
 	"humanoid":{
-
+		"humanoid":"humanoids.csv",
+		"age":"age.csv",
+		"skin":"skin.csv",
+		"outfits":"outfits.csv",
+		"accessories":"accessories.csv",
+		"pose":"pose.csv",
+		"body type":"body-types.csv",
+		"hair":"hair.csv",
+		"expression": "expression.csv"
 	},
 	"animal":{
 		"animals": "animals.csv"
@@ -45,16 +60,18 @@ subject_dict = {
 	},
 	"landscape":{
 		"scenery": "scenery.csv",
-		"location": "locations.csv",
 		"time": "time.csv",
 		"season": "season.csv",
 		"weather": "weather.csv"
 	},
 	"location":{
-
+		"location": "locations.csv",
+		"time": "time.csv",
+		"season": "season.csv",
+		"weather": "weather.csv"
 	},
 	"scene":{
-
+		"scene": "scene.csv"
 	},
 	"event":{
 		"events": "events.csv"
@@ -78,6 +95,8 @@ type_of_image = {
 	},
 	"illustration":{
 		"illustration type": "illustration-type.csv"
+		"movieorgame": "movieorgame.csv"
+		"illustrator": "illustrator.csv"
 	},
 	"architectural design":{
 		"national culture": "national-culture.csv",
