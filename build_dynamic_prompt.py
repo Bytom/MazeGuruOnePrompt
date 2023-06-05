@@ -205,7 +205,7 @@ if __name__ == "__main__":
 	special_words = "special"
 
 	if len(sys.argv) > 3:
-		special_words = sys.argv[1]
-		type_of_image = sys.argv[2]
-		subject = sys.argv[3]
+		type_of_image = sys.argv[1]
+		subject = sys.argv[2]
+		special_words = sys.argv[3]
 		test(special_words, type_of_image, subject)
