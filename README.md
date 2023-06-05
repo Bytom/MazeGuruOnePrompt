@@ -43,7 +43,8 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/painter.csv
 #### illustration type
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/illustration-type.csv
 
-#### game or film
+#### game or movie
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/movieorgame.csv
 
 #### illustrator
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/illustrator.csv
@@ -104,10 +105,16 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/animation-studio.csv
 #### animator 
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/animator.csv
 
-## Human
+## Human，Fictional character,Humanoid
 
-#### gender 
+#### gender (Huamn)
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/gender.csv
+
+#### fictional character(Fictional character)
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/fictional-characters.csv
+
+#### humanoid(Humanoid)
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/humanoids.csv
 
 #### age
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/age.csv
@@ -177,7 +184,6 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/materials.csv
 #### colors
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/colors.csv
 
-
 ## Plant
 
 #### plant type
@@ -200,9 +206,24 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/season.csv
 #### weather
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/weather.csv
 
+## Location
+
+#### location
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/locations.csv
+
+#### time
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/time.csv
+
+#### season
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/season.csv
+
+#### weather
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/weather.csv
+
 ## scene 
 
 #### scene 
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/scene.csv
 
 ## event
 
