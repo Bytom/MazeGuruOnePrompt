@@ -207,5 +207,7 @@ if __name__ == "__main__":
 	if len(sys.argv) > 3:
 		type_of_image = sys.argv[1]
 		subject = sys.argv[2]
-		special_words = sys.argv[3]
+		special_words = sys.argv[3:]
+		special_words = ','.join([str(x) for x in special_words])
 		test(special_words, type_of_image, subject)
+
