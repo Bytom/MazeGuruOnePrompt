@@ -10,12 +10,12 @@ subject_dict = {
 		"skin":"skin.csv",
 		"outfits":"outfits.csv",
 		"accessories":"accessories.csv",
-		"pose":"pose.csv",
+		"pose":"poses.csv",
 		"body type":"body-types.csv",
 		"hair":"hair.csv",
 		"expression": "expression.csv",
 		"jobs": "jobs.csv",
-		"culture": "culture.csv"
+		"culture": "cultures.csv"
 	},
 	"fictional character":{
 		"fictional":"fictional-characters.csv",
