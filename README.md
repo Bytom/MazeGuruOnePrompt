@@ -200,6 +200,20 @@ https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/season.csv
 #### weather
 https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/weather.csv
 
+## Location
+
+#### location
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/locations.csv
+
+#### time
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/time.csv
+
+#### season
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/season.csv
+
+#### weather
+https://github.com/Bytom/MazeGuruOnePrompt/blob/main/csvs/weather.csv
+
 ## scene 
 
 #### scene 
