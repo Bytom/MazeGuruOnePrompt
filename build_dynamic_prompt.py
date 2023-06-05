@@ -198,8 +198,10 @@ class OneButton(object):
 
 def test(special_words, type_of_image, subject):
 	button = OneButton()
+	#print(type_of_image, subject, special_words)
 	prompt = button.get_prompt(type_of_image, subject, special_words)
 	print(prompt)
+	return prompt
 
 
 if __name__ == "__main__":
@@ -214,6 +216,8 @@ if __name__ == "__main__":
 		special_words = sys.argv[3:]
 		special_words = ','.join([str(x) for x in special_words])
 	elif len(sys.argv) == 3:
+		type_of_image = sys.argv[1]
+		subject = sys.argv[2]
 		special_words = ""
 	
 	test(special_words, type_of_image, subject)
