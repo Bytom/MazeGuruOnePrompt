@@ -2,6 +2,7 @@ import os
 import sys
 import random
 
+ori_outputs_dir = "ori_outputs"
 csv_dir = os.path.join("", "csvs")
 subject_dict = {
 	"human":{
@@ -21,7 +22,7 @@ subject_dict = {
 		"fictional":"fictional-characters.csv",
 		"outfits":"outfits.csv",
 		"accessories":"accessories.csv",
-		"pose":"pose.csv",
+		"pose":"poses.csv",
 		"body type":"body-types.csv",
 		"expression": "expression.csv"
 	},
@@ -29,7 +30,7 @@ subject_dict = {
 		"humanoid":"humanoids.csv",
 		"outfits":"outfits.csv",
 		"accessories":"accessories.csv",
-		"pose":"pose.csv",
+		"pose":"poses.csv",
 		"body type":"body-types.csv",
 		"expression": "expression.csv"
 	},
@@ -215,6 +216,28 @@ class OneButton(object):
 		return ','.join(prompt_arr)		
 
 
+def run_file(in_txt, out_txt, nums=10):
+	button = OneButton()
+	ret = []
+	f = open(f"./ori_inputs/{in_txt}", "r")
+	for line in f:
+		type_of_image, subject = line.strip().split(',')
+		special_words = ""
+		for i in range(nums):
+			prompt = button.get_prompt(type_of_image, subject, special_words)
+			ret.append(prompt)
+	f.close()
+
+	if not os.path.exists(ori_outputs_dir):
+		os.mkdir(ori_outputs_dir)
+
+	f = open(f"{ori_outputs_dir}/{out_txt}", "w")
+	for prompt in ret:
+		f.write(prompt + "\n")
+	f.close()
+	return ret
+
+
 def test(special_words, type_of_image, subject):
 	button = OneButton()
 	#print(type_of_image, subject, special_words)
@@ -223,7 +246,11 @@ def test(special_words, type_of_image, subject):
 	return prompt
 
 
+
 if __name__ == "__main__":
+	run_file("in.txt", "out.txt", 4)
+	exit(0)
+
 	type_of_image = "photography"
 	subject = "Human"
 	special_words = "special"

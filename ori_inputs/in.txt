@@ -1,0 +1,47 @@
+photography,Human
+photography,fictional character 
+photography,humanoid 
+photography,animal 
+photography,building 
+photography,vehicles 
+photography,object 
+photography,plant 
+photography,landscape 
+photography,location 
+photography,scene 
+photography,event 
+painting,Human
+painting,fictional character 
+painting,humanoid 
+painting,animal 
+painting,building 
+painting,vehicles 
+painting,object 
+painting,plant 
+painting,landscape 
+painting,location 
+painting,scene 
+painting,event 
+Illustration,Human
+Illustration,fictional character 
+Illustration,humanoid 
+Illustration,animal 
+Illustration,building 
+Illustration,vehicles 
+Illustration,object 
+Illustration,plant 
+Illustration,landscape 
+Illustration,location 
+Illustration,scene 
+Illustration,event 
+Architectural design,building
+graphic design,Human
+graphic design,animal 
+graphic design,building 
+graphic design,vehicles 
+graphic design,object 
+fashion design,Human
+anime,Human
+anime,fictional character 
+anime,humanoid 
+anime,animal 
