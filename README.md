@@ -4,6 +4,21 @@
 
 [https://alidocs.dingtalk.com/i/nodes/14lgGw3P8vveey6lsAGPDGx785daZ90D]()
 
+|  subject   | photography  |  painting   | Illustration  |  Architectural design   | graphic design  |  fashion design   | anime  |
+|  ----  | ----  | ----  | ----  | ----  | ----  | ----  | ----  |
+| Human  | √ | √| √ | x | √ | √ | √ |
+| fictional character  | √ | √ | √ | x | x | √ | √ |
+| humanoid  | √ | √ | √ | x | x | x | √ |
+| animal  | √ | √ | √ | x | √ | x | √ |
+| building  | √ | √ | √ | √ | √ | x | x |
+| vehicles  | √ | √ | √ | x | √ | x | x |
+| object  | √ | √ | √ | x | x | x | x |
+| plant  | √ | √ | √ | x | x | √ | x |
+| landscape  | √ | √ | √ | x | x | √ | x |
+| location  | √ | √ | √ | √ | √ | x | x |
+| scene  | √ | √ | √ | x | √ | x | x |
+| event  | √ | √ | √ | x | x | x | x |
+
 ## Photography
 
 #### photography-technology
