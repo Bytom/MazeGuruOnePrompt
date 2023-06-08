@@ -13,8 +13,8 @@
 | building  | √ | √ | √ | √ | √ | x | x |
 | vehicles  | √ | √ | √ | x | √ | x | x |
 | object  | √ | √ | √ | x | x | x | x |
-| plant  | √ | √ | √ | x | x | √ | x |
-| landscape  | √ | √ | √ | x | x | √ | x |
+| plant  | √ | √ | √ | x | x | x | x |
+| landscape  | √ | √ | √ | x | x | x | x |
 | location  | √ | √ | √ | √ | √ | x | x |
 | scene  | √ | √ | √ | x | √ | x | x |
 | event  | √ | √ | √ | x | x | x | x |
