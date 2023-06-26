@@ -21,7 +21,6 @@ Hippopotamus
 Crocodile
 Alligator
 Snake
-Python
 Anaconda
 Lizard
 Gecko
@@ -166,7 +165,6 @@ Djinn
 Ifrit
 Bald Eagle
 Blue Jay
-Cardinal
 Chickadee
 Condor
 Crow
@@ -188,8 +186,6 @@ Peacock
 Pelican
 Pigeon
 Puffin
-Raven
-Robin
 Seagull
 Sparrow
 Stork
@@ -202,7 +198,6 @@ Woodpecker
 Albatross
 Blackbird
 Bluebird
-Cardinal
 Chickadee
 Cuckoo
 Dove
@@ -312,8 +307,6 @@ Bichon Frise
 Shar Pei
 Saint Bernard
 Jack Russell Terrier
--material- dragon
--color- dragon
 Tyrannosaurus Rex
 Stegosaurus
 Velociraptor
@@ -323,15 +316,3 @@ Allosaurus
 Ankylosaurus
 Diplodocus
 Pterodactyl
-Pikachu
-Charizard
-Mewtwo
-Bulbasaur
-Squirtle
-Jigglypuff
-Snorlax
-Eevee
-Gyarados
-Dragonite
--color- creature
--color- and -color- creature

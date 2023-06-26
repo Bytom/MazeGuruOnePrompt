@@ -134,7 +134,7 @@ support_dic = {
 	"painting": ["human", "fictional character", "humanoid", "animal", "building", "vehicles", "object", "plant", "landscape", "location", "scene", "event"],
 	"illustration": ["human", "fictional character", "humanoid", "animal", "building", "vehicles", "object", "plant", "landscape", "location", "scene", "event"],
 	"architectural design": ["building", "location"],
-	"graphic design": ["human", "animal", "building", "vehicles", "landscape", "location", "scene"],
+	"graphic design": ["human", "animal", "building", "vehicles", "landscape", "object","location", "scene"],
 	"fashion design": ["human", "fictional character", "plant"],
 	"anime": ["human", "fictional character", "humanoid", "animal", "landscape", "scene", "event"]
 }
